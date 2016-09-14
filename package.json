@@ -1,7 +1,7 @@
 {
   "name": "Video-Search",
   "version": "1.0.0",
-  "description": "Simple starter package for Redux with React and Babel support",
+  "description": "Simple youtube video search App",
   "main": "index.js",
   "repository": "git@github.com:sravan-ui/Video-Search.git",
   "scripts": {
